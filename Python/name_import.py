@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 「main_test」を「import」するだけのプログラム
+# 縲稽ain_test縲阪ｒ縲景mport縲阪＠縺ｦ螳溯｡後☆繧九□縺代�ｮ繝励Ο繧ｰ繝ｩ繝
 import name_test
 name_test
