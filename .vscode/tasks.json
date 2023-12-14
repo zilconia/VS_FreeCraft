@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [ // 実行するタスクのリスト
+        {
+            "label": "g++ builder", // 実行タスクのラベル名
+            "type": "shell", // プロセスとして実行するか、コマンドとして実行するか
+            "command": "g++ -g ${file} -o ${fileBasenameNoExtension}.out", // 実行するコマンド
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
