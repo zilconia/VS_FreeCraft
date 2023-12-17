@@ -1,0 +1,9 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers/features/anaconda:1": {},
+		"ghcr.io/shyim/devcontainers-features/php:0": {},
+		"ghcr.io/oleksis/devcontainer-features/python-launcher:1": {},
+		"ghcr.io/jckimble/devcontainer-features/ngrok:3": {}
+	}
+}
