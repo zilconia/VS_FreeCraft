@@ -4,7 +4,7 @@ using namespace std;
 int main(void){
     string s;
     
-    cin >> s;
+    cout << "何か入力せよ："; cin >> s;
     cout << "Hello World!\n";
     cout << "入力内容：" << s << "\n";
     return 0;

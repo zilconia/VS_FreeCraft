@@ -1,5 +1,7 @@
-# コードを作るにあたって参考にしたサイト
-# https://self-development.info/
+# 元のコードを改造したもの。
+# ベースとなったコードの掲載サイト
+# https://self-development.info/pythonでgemini-apiを利用する方法/
+# pip install google-generativeai
 
 import google.generativeai as genai
 
