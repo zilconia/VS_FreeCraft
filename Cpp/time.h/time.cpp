@@ -4,5 +4,5 @@ int main(void){
     time_t t;
     time(&t);
     printf("Today's date and time: %s", ctime(&t));
-    return 0;
+    return printf("\n終了\n") ,0;
 }

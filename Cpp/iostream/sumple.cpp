@@ -7,5 +7,5 @@ int main(void){
     cout << "何か入力せよ："; cin >> s;
     cout << "Hello World!\n";
     cout << "入力内容：" << s << "\n";
-    return 0;
+    return cout << "\n終了します。\n", 0;
 }

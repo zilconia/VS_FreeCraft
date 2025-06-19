@@ -2,5 +2,5 @@
 
 int main(void){
     printf("Hello World\n");
-    return 0;
+    return printf("\n終了します。\n"), 0;
 }
